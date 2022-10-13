@@ -1,0 +1,5 @@
+# Ignoring the Data folder
+Data
+
+# Ignoring Mac files 
+.DS_store
